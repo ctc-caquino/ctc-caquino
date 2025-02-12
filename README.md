@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Josef
 - 👀 I’m interested in Cloud, AWS, Kubernetes and GitOps
-- 🌱 I’m currently learning Pytorch, AKS, Vim Motions,  
-- 💞️ I’m looking to collaborate on open-source projects that will excite me. 
+- 🌱 I’m currently learning Pytorch, AKS, Vim Motions
 
 <!---
 ctc-caquino/ctc-caquino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
